@@ -1,12 +1,11 @@
 #!/usr/bin/bash
 
-### initial installation from github
-# source < https:/jwjjwjwm,wiiwi/nservers
+# wget -O - https://raw.githubusercontent.com/isaacpe/nservers/main/nservers|bash
 # what do
 apt update
 apt install unzip -y
-wget https://raw.githubusercontent.com/isaacpe/nservers/main/repo3.zip 
-# unzip repo3.zip
-# cd rootdir
+wget https://raw.githubusercontent.com/isaacpe/nservers/main/repo3.zip
+unzip repo3.zip
+cd rootdir
 # source install.sh
 ### so we have in de github: nservers and repo3.zip
