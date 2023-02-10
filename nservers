@@ -1,0 +1,12 @@
+#!/usr/bin/bash
+
+### initial installation from github
+# source < https:/jwjjwjwm,wiiwi/nservers
+# what do
+# apt update
+# apt install unzip -y
+# wget -O https://kkwkwk/repo3.zip
+# unzip repo3.zip
+# cd rootdir
+# source install.sh
+### so we have in de github: nservers and repo3.zip
